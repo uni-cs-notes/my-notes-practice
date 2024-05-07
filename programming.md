@@ -245,7 +245,26 @@ These loops play a fundamental role in controlling program flow, executing repet
   }
   ```
 # Arrays
+* Arrays are a way of storing data back-to-back in memory such that this data is easily accessible.
+* Inside of your computer, you have a finite amount of memory available.
+* Physically, on the memory of your computer, you can imagine how specific types of data are stored on your computer. You might imagine that a char, which only requires 1 byte of memory
 
+```
+#include <iostream>
+#include  <string>
+using namespace std;
+
+int main()
+{ 
+    //declare ur array first 
+
+string cars[4]={toyota,ford,volvo,GMC};
+cout<<cars[2];
+// mention the array u want to print through index 
+return 0;
+
+}
+```
  
 
 
