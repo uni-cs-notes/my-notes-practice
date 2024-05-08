@@ -245,8 +245,32 @@ These loops play a fundamental role in controlling program flow, executing repet
   }
   ```
 # Arrays
-
- 
+* All kind of Data types requires space in the memory
+1. `bool` 1 bytes
+2. `int` 4 bytes
+3. `long` 8 bytes
+4. `float` 4 bytes
+5. `double` 8 bytes
+6. `char` 1 byte
+7. `string` ? bytes 
+* Inside of your computer, you have a finite amount of memory available.
+* Physically, on the memory of your computer, you can imagine how specific types of data are stored on your computer. You might imagine that a char, which only requires 1 byte of memory
+* lets make a simple program of to calculate the average!!
+  ```
+  #include <iostream>
+  using namespace std;
+  int main()
+  {
+   int n1=5;
+    int n2=10;
+    int avg; 
+     avg=(n1+n2)/2;
+      cout<<"average= "<<avg;
+     return 0;
+  }
+   ```
+  * this program is comsuming different bits in the memory.
+  *  
 
 
 
