@@ -264,5 +264,86 @@ teachings and stable pillar of its structure.
 supporting the Sunnah, and no one have doubt in it. A person
 who denies the Sunnah and Hadith he rejects the exact
 argument, and he is on the path of disbelievers, the supporting
+# INTRODUCTION TO ISLAMIC LAW & JURISPRUDENCE:
+* Basic Concepts of Islamic Law & Jurisprudence
+* Sources of Islamic Law & Jurisprudence
+* Nature of Differences in Islamic Law
+* Islam and Sectarianism
+
+## Basic Concepts of Islamic Law & Jurisprudence
+ * Islamic Law, commonly known as Shariah, controls social conduct
+and a religious practices among Muslims. In some countries it is
+also the governing law, while other countries apply Islamic law to
+specific areas, such as personal status or finance.
+* The word jurisprudence derives from the Latin term jurisprudentia, which means "the study, knowledge, or science of law."
+* jurisprudence commonly means the philosophy of law.
+## Sources of Islamic Law & Jurisprudence
+* Islamic jurisprudence recognizes several sources from
+which Islamic law is derived. Islamic societies depend on these
+sources as the basis for their legal rulings and decisions, and the
+sources of Islamic law are:` Quran, Hadiths, Ijma, Qiyas, Istihsan`
+### Quran:
+* main basis of Islamic law is the Quran, which offers
+instructions on issues of faith, worship, morality, and social
+behavior. A broad range of subjects, including prohibitions and
+* `legal ideas, are covered in the verses of the Quran.`
+### Hadith:
+* Hadith are the documented traditions and sayings of the
+Prophet Muhammad (S.A.W) as narrated by his companions and
+later put into collections. 
+* Hadith acts as a supplement to Islamic
+law, providing practical examples and interpretations of the
+Quran's teachings.
+* Scholars categorize hadith collections based on their
+authenticity and dependability, examining the chain of
+transmission (isnad) and the text of Hadith (matn) to assess their
+credibility.
+
+#### Ijma (Consensus):
+* Ijma is the consensus of Islamic scholars on a certain legal matter.
+It is founded on the concept that the collective agreement of qualified
+jurists from the early generations of Islam is compulsory in determining
+legal judgments. When the Quran or Hadith do not provide explicit
+advice, Ijma is used to provide legal authority.
+#### Qiyas (Analogical Reasoning):
+* Qiyas is the application of analogical reasoning to develop legal
+rules for new situations based on previous principles found in the Quran
+and Hadith. When challenged with current difficulties that are not
+directly addressed in primary sources, jurists apply qiyas to make
+analogical conclusions by comparing similarities between the new case
+and previous precedents.
+
+#### Istihsan (Juristic Preference):
+* Jurists can prefer one legal view over another based on public
+interest, or the spirit of the law, even if it appears to contradict
+analogical reasoning (qiyas). It allows for greater flexibility in legal
+interpretation and adapts Islamic law to changing societal contexts.
+`Exp:`
+* According to Quranic prohibitions, alcohol intake is strictly
+forbidden in Islamic law. Like Alcohol. However, there has been a
+discussion among scholars about whether or not using perfumes
+containing alcohol is acceptable.
+## Nature of Differences in Islamic Law
+* Differences within Islamic law can arise due to various
+factors, including different schools of thought, cultural
+influences, historical contexts, and individual interpretations.
+* One key area where differences in Islamic law emerge is
+in the interpretation of legal texts and their application to
+contemporary issues.
+* Different Islamic scholars and jurists may interpret the
+same Quranic verses or Hadith differently, resulting in
+conflicting legal findings.
+* `Cont..`
+* Let's take the issue of banking and finance, for instance. Sharia
+rules, which forbid certain actions like charging interest (riba) and
+indulging in undue uncertainty (gharar), are the foundation of Islamic
+finance. Different methods exist within Islamic finance for arranging
+financial transactions in a way that complies with Sharia.
+* One school of thought might support the use of specific financial
+mechanisms for transactions, such as murabaha (cost-plus financing) or
+ijara (lease), whilst another may prefer musharakah (partnership) or
+mudarabah (profit-sharing). Furthermore, there may be differing views on
+* the permissibility of modern financial products such as Islamic bonds
+(sukuk) or Islamic insurance (takaful)
   
 
