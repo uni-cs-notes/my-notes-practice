@@ -212,7 +212,8 @@ In command line interface, you write commands rather than graphical objects to e
 * Less intuitive than GUIs
 * Requires knowledge of specific commands
 
-# Data structure
+# Networking 
+
 
 
 
