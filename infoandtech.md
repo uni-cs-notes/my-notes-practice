@@ -212,7 +212,33 @@ In command line interface, you write commands rather than graphical objects to e
 * Less intuitive than GUIs
 * Requires knowledge of specific commands
 
-# Networking 
+# Typologies 
+
+* `Physical topology` refers to the physical layout of the network, or how the devices are physically connected to each other. This is determined by the cables, connectors, and other physical components that make up the network.
+
+* `Logical topology`, on the other hand, refers to the flow of data through the network. This is independent of the physical layout and is determined by the protocols and software that are used to manage the network traffic.
+
+### Here are the different types of physical network topologies:
+
+* `Bus topology:` In a bus topology, all devices are connected to a single central cable. This is a simple and inexpensive topology to set up, but it can be slow and unreliable because all devices share the same bandwidth. A break in the central cable can also bring down the entire network.
+
+* Bus topology network
+
+* `Star topology: `In a star topology, all devices are connected to a central hub or switch. This is a more reliable topology than a bus topology because a break in one cable will only affect the device that is connected to that cable. Star topologies are also easier to manage and troubleshoot.
+
+* Star topology network
+* `Ring topology:`In a ring topology, each device is connected to two other devices, forming a closed loop. Data travels around the ring in one direction. Ring topologies can be reliable, but they can also be slow because data must travel through all of the devices in the ring before it reaches its destination. A break in the ring can also bring down the entire network.
+
+* Ring topology network
+* `Mesh topology:`In a mesh topology, all devices are connected to each other. This provides a high degree of redundancy and fault tolerance, but it can also be complex and expensive to set up. Mesh topologies are often used in wireless networks.
+
+* Mesh topology network
+* `Tree topology:`A tree topology is a hybrid of star and bus topologies. It consists of a central hub or switch that is connected to multiple secondary hubs or switches. These secondary hubs or switches are then connected to individual devices. Tree topologies are hierarchical and can be easily expanded.
+  
+* Point-to-point topology:In a point-to-point topology, two devices are connected directly to each other. This is the simplest type of topology, but it is not very scalable. Point-to-point topologies are often used for long-distance connections.
+Opens in a new window
+
+
 
 
 
