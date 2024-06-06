@@ -222,19 +222,44 @@ In command line interface, you write commands rather than graphical objects to e
 
 * `Bus topology:` In a bus topology, all devices are connected to a single central cable. This is a simple and inexpensive topology to set up, but it can be slow and unreliable because all devices share the same bandwidth. A break in the central cable can also bring down the entire network.
 
-* Bus topology network
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/66aa6ce9-90a7-41a2-bb2c-162e0e47a3d1)
+
+  
+
+
 
 * `Star topology: `In a star topology, all devices are connected to a central hub or switch. This is a more reliable topology than a bus topology because a break in one cable will only affect the device that is connected to that cable. Star topologies are also easier to manage and troubleshoot.
 
-* Star topology network
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/4594ed7b-ff6b-4721-9532-253ee5890697)
+
+
+
+
 * `Ring topology:`In a ring topology, each device is connected to two other devices, forming a closed loop. Data travels around the ring in one direction. Ring topologies can be reliable, but they can also be slow because data must travel through all of the devices in the ring before it reaches its destination. A break in the ring can also bring down the entire network.
 
-* Ring topology network
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/5ea97f02-b4b6-4faa-8583-1a987df90650)
+
+
+
+
 * `Mesh topology:`In a mesh topology, all devices are connected to each other. This provides a high degree of redundancy and fault tolerance, but it can also be complex and expensive to set up. Mesh topologies are often used in wireless networks.
 
-* Mesh topology network
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/fdea8294-5161-43a4-8131-aace836daabc)
+
+
+
+
 * `Tree topology:`A tree topology is a hybrid of star and bus topologies. It consists of a central hub or switch that is connected to multiple secondary hubs or switches. These secondary hubs or switches are then connected to individual devices. Tree topologies are hierarchical and can be easily expanded.
-  
+
+
+
+   ![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/ac05c3d0-f6f2-4238-adf2-6131b347cc8f)
+
+
 * Point-to-point topology:In a point-to-point topology, two devices are connected directly to each other. This is the simplest type of topology, but it is not very scalable. Point-to-point topologies are often used for long-distance connections.
 Opens in a new window
 
