@@ -239,7 +239,28 @@ In command line interface, you write commands rather than graphical objects to e
 Opens in a new window
 
 
-
+# QUIZ # 03:
+## > Syllabus
+* > Q.1. Define Internet.
+* The Internet is the largest computers network that connects millions of computers all over the
+world. The computers connected to the internet can exchange information with each other.
+* > Q.2. Write any three uses of the Internet ?
+* Internet can be used to contact and exchange information with friends anywhere in the world.
+People can access a broad range of data and information from websites. People can buy and sell
+goods and services on the Internet.
+* > Q.3. How does data travel on the Internet ?
+* All computers and other devices such as smartphones connected to the internet create a network of
+network. These computers transfer data and information around the world using various wireless
+transmission media. Every computer or devices connected to the internet acts as either client or
+server. A client is a computer that asks for information. A server is a computer that receives the
+request and returns the information to the client. Data travels between clients and servers along a
+system of communication lines or pathways. The largest and fastest of these pathways from the
+internet backbone
+* > Q.4. What are the ways to connect smartphone to the internet?
+* The smart phones and most mobile devices connect to the internet using two ways. These are Wi-Fi
+network and the cellular phone system such as 3G and 4G connection. A major advantage of Wi-Fi is
+that it offers a faster data transfer speed. However, Wi-Fi is not available everywhere. Cellular
+networks are much more widely available.
 
 
 
