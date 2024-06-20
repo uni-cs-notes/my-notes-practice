@@ -212,7 +212,80 @@ In command line interface, you write commands rather than graphical objects to e
 * Less intuitive than GUIs
 * Requires knowledge of specific commands
 
-# Data structure
+# Typologies 
+
+* `Physical topology` refers to the physical layout of the network, or how the devices are physically connected to each other. This is determined by the cables, connectors, and other physical components that make up the network.
+
+* `Logical topology`, on the other hand, refers to the flow of data through the network. This is independent of the physical layout and is determined by the protocols and software that are used to manage the network traffic.
+
+### Here are the different types of physical network topologies:
+
+* `Bus topology:` In a bus topology, all devices are connected to a single central cable. This is a simple and inexpensive topology to set up, but it can be slow and unreliable because all devices share the same bandwidth. A break in the central cable can also bring down the entire network.
+
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/66aa6ce9-90a7-41a2-bb2c-162e0e47a3d1)
+
+  
+
+
+
+* `Star topology: `In a star topology, all devices are connected to a central hub or switch. This is a more reliable topology than a bus topology because a break in one cable will only affect the device that is connected to that cable. Star topologies are also easier to manage and troubleshoot.
+
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/4594ed7b-ff6b-4721-9532-253ee5890697)
+
+
+
+
+* `Ring topology:`In a ring topology, each device is connected to two other devices, forming a closed loop. Data travels around the ring in one direction. Ring topologies can be reliable, but they can also be slow because data must travel through all of the devices in the ring before it reaches its destination. A break in the ring can also bring down the entire network.
+
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/5ea97f02-b4b6-4faa-8583-1a987df90650)
+
+
+
+
+* `Mesh topology:`In a mesh topology, all devices are connected to each other. This provides a high degree of redundancy and fault tolerance, but it can also be complex and expensive to set up. Mesh topologies are often used in wireless networks.
+
+
+![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/fdea8294-5161-43a4-8131-aace836daabc)
+
+
+
+
+* `Tree topology:`A tree topology is a hybrid of star and bus topologies. It consists of a central hub or switch that is connected to multiple secondary hubs or switches. These secondary hubs or switches are then connected to individual devices. Tree topologies are hierarchical and can be easily expanded.
+
+
+
+   ![image](https://github.com/uni-cs-notes/my-notes-practice/assets/160413612/ac05c3d0-f6f2-4238-adf2-6131b347cc8f)
+
+
+* Point-to-point topology:In a point-to-point topology, two devices are connected directly to each other. This is the simplest type of topology, but it is not very scalable. Point-to-point topologies are often used for long-distance connections.
+Opens in a new window
+
+
+# QUIZ # 03:
+## > Syllabus
+* > Q.1. Define Internet.
+* The Internet is the largest computers network that connects millions of computers all over the
+world. The computers connected to the internet can exchange information with each other.
+* > Q.2. Write any three uses of the Internet ?
+* Internet can be used to contact and exchange information with friends anywhere in the world.
+People can access a broad range of data and information from websites. People can buy and sell
+goods and services on the Internet.
+* > Q.3. How does data travel on the Internet ?
+* All computers and other devices such as smartphones connected to the internet create a network of
+network. These computers transfer data and information around the world using various wireless
+transmission media. Every computer or devices connected to the internet acts as either client or
+server. A client is a computer that asks for information. A server is a computer that receives the
+request and returns the information to the client. Data travels between clients and servers along a
+system of communication lines or pathways. The largest and fastest of these pathways from the
+internet backbone
+* > Q.4. What are the ways to connect smartphone to the internet?
+* The smart phones and most mobile devices connect to the internet using two ways. These are Wi-Fi
+network and the cellular phone system such as 3G and 4G connection. A major advantage of Wi-Fi is
+that it offers a faster data transfer speed. However, Wi-Fi is not available everywhere. Cellular
+networks are much more widely available.
 
 
 

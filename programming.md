@@ -247,25 +247,48 @@ These loops play a fundamental role in controlling program flow, executing repet
 # Arrays
 * Arrays are a way of storing data back-to-back in memory such that this data is easily accessible.
 * Inside of your computer, you have a finite amount of memory available.
-* Physically, on the memory of your computer, you can imagine how specific types of data are stored on your computer. You might imagine that a char, which only requires 1 byte of memory
-
 ```
 #include <iostream>
-#include  <string>
 using namespace std;
 
-int main()
-{ 
+int main() { 
     //declare ur array first 
 
-string cars[4]={toyota,ford,volvo,GMC};
-cout<<cars[2];
+int num[4]={15,54,547,555};
+cout<<num[2];
 // mention the array u want to print through index 
 return 0;
 
 }
+
+
 ```
  
+* All kind of Data types requires space in the memory
+1. `bool` 1 bytes
+2. `int` 4 bytes
+3. `long` 8 bytes
+4. `float` 4 bytes
+5. `double` 8 bytes
+6. `char` 1 byte
+7. `string` ? bytes 
+* Inside of your computer, you have a finite amount of memory available.
+* Physically, on the memory of your computer, you can imagine how specific types of data are stored on your computer. You might imagine that a char, which only requires 1 byte of memory
+* lets make a simple program of to calculate the average!!
+  ```
+  #include <iostream>
+  using namespace std;
+  int main()
+  {
+   int n1=5;
+    int n2=10;
+    int avg; 
+     avg=(n1+n2)/2;
+      cout<<"average= "<<avg;
+     return 0;
+  }
+   ```
+  
 
 
 
