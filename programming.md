@@ -245,6 +245,25 @@ These loops play a fundamental role in controlling program flow, executing repet
   }
   ```
 # Arrays
+* Arrays are a way of storing data back-to-back in memory such that this data is easily accessible.
+* Inside of your computer, you have a finite amount of memory available.
+```
+#include <iostream>
+using namespace std;
+
+int main() { 
+    //declare ur array first 
+
+int num[4]={15,54,547,555};
+cout<<num[2];
+// mention the array u want to print through index 
+return 0;
+
+}
+
+
+```
+ 
 * All kind of Data types requires space in the memory
 1. `bool` 1 bytes
 2. `int` 4 bytes
@@ -269,8 +288,7 @@ These loops play a fundamental role in controlling program flow, executing repet
      return 0;
   }
    ```
-  * this program is comsuming different bits in the memory.
-  *  
+  
 
 
 
